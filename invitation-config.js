@@ -9,7 +9,7 @@ window.INVITATION = {
   "ceremonyTime": "17:00",
   "timeZone": "Europe/Istanbul",
   "utcOffset": "+03:00",
-  "publicUrl": "https://newsearch-davet.github.io/miraciye-murat",
+  "publicUrl": "https://newsearch-davet.github.io/muratmiraciyedavetiyesi",
   "venue": {
     "name": "Asrena Taşev",
     "address": "Selçuk Bey, 745. Sk. No:1, 20100 Denizli",
