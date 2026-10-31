@@ -14,6 +14,7 @@ DESCRIPTION:Düğünümüze davetlisiniz.\nNikâh: 17:00 (Türkiye saati).\
 URL:https://newsearch-davet.github.io/miraciye-murat/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
+LOCATION:Asrena Taşev\, Selçuk Bey\, 745. Sk. No:1\, 20100 Denizli
 BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY

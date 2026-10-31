@@ -11,8 +11,8 @@ window.INVITATION = {
   "utcOffset": "+03:00",
   "publicUrl": "https://newsearch-davet.github.io/miraciye-murat",
   "venue": {
-    "name": "",
-    "address": "",
+    "name": "Asrena Taşev",
+    "address": "Selçuk Bey, 745. Sk. No:1, 20100 Denizli",
     "mapsUrl": ""
   },
   "rsvp": {
