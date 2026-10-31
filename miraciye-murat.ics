@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miraciye ve Murat//Davet//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:miraciye-murat-20261122@newsearch-davet.github.io
+DTSTAMP:20261031T140000Z
+DTSTART:20261122T130000Z
+DTEND:20261122T170000Z
+SUMMARY:Miraciye & Murat · Düğün
+DESCRIPTION:Düğünümüze davetlisiniz.\nNikâh: 17:00 (Türkiye saati).\
+ nDavetiye: https://newsearch-davet.github.io/miraciye-murat/
+URL:https://newsearch-davet.github.io/miraciye-murat/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Miraciye & Murat · Düğün
+END:VALARM
+END:VEVENT
+END:VCALENDAR
